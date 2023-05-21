@@ -59,4 +59,3 @@ Please note that the accuracy of the predicted price and evaluation may vary, as
 
 Feel free to explore the web application and evaluate various properties based on different input combinations.
 
-## License
