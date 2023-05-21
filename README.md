@@ -7,7 +7,7 @@ This is a web application that evaluates properties based on the given details f
 To use this application, follow the instructions below:
 
 1. Clone the repository using the provided link:
-git clone <repository_link>
+`git clone <repository_link>`
 
 2. Install the required dependencies. Navigate to the project directory and run the following command:
 pip install -r requirements.txt
