@@ -7,16 +7,16 @@ This is a web application that evaluates properties based on the given details f
 To use this application, follow the instructions below:
 
 1. Clone the repository using the provided link:
-`git clone <repository_link>`
+`git clone https://github.com/amsb14/AI-Evaluator.git`
 
 2. Install the required dependencies. Navigate to the project directory and run the following command:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 3. Modify the `.env` file and add your own OpenAI key. You can obtain an OpenAI key by signing up on the OpenAI website.
 
 4. Run the `app.py` file to start the web application:
-python app.py
+`python app.py`
 
 
 5. Open your preferred web browser and enter the following URL:
