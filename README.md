@@ -1,6 +1,6 @@
 # AI Evaluator Website
 
-This is a web application that evaluates properties based on the given details from stakeholders. It predicts the price of the property and provides a summary report or evaluation for the property, comparing it with similar properties by calculating the average.
+Our website utilizes a powerful machine learning (ML) model trained on a large dataset of property prices in Saudi Arabia. This ML model enables us to provide stakeholders with accurate predictions of property prices based on specific property details. Additionally, we leverage a cutting-edge Generative AI tool to perform in-depth comparisons with other sales that share similar property details. This comparison allows us to generate a comprehensive summary report, providing stakeholders with valuable insights by confirming or refuting specific property situations.
 
 ## Installation
 
