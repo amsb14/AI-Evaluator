@@ -20,7 +20,7 @@ To use this application, follow the instructions below:
 
 
 5. Open your preferred web browser and enter the following URL:
-127.0.0.1:5000
+`127.0.0.1:5000`
 
 
 ## Usage
